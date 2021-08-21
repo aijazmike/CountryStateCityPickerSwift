@@ -14,14 +14,14 @@
 		36DD65A526D13F6E006DEAE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65A426D13F6E006DEAE4 /* Assets.xcassets */; };
 		36DD65A826D13F6E006DEAE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65A626D13F6E006DEAE4 /* LaunchScreen.storyboard */; };
 		36DD65B426D13FC4006DEAE4 /* CountryPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DD65B326D13FC4006DEAE4 /* CountryPickerVC.swift */; };
-		36DD65B826D14019006DEAE4 /* synergistic_golfcountries.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65B526D14019006DEAE4 /* synergistic_golfcountries.json */; };
-		36DD65B926D14019006DEAE4 /* synergistic_golf.states.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65B626D14019006DEAE4 /* synergistic_golf.states.json */; };
-		36DD65BA26D14019006DEAE4 /* synergistic_golfcities.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65B726D14019006DEAE4 /* synergistic_golfcities.json */; };
+		36DD65B826D14019006DEAE4 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65B526D14019006DEAE4 /* countries.json */; };
 		36DD65BE26D140F4006DEAE4 /* CountryPickerTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65BC26D140F4006DEAE4 /* CountryPickerTVCell.xib */; };
 		36DD65BF26D140F4006DEAE4 /* CountryPickerTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DD65BD26D140F4006DEAE4 /* CountryPickerTVCell.swift */; };
 		36DD65C126D143E8006DEAE4 /* CountryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DD65C026D143E8006DEAE4 /* CountryModel.swift */; };
 		36DD65C326D14435006DEAE4 /* CountryPickerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DD65C226D14435006DEAE4 /* CountryPickerViewModel.swift */; };
 		36DD65C626D144A6006DEAE4 /* StringConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DD65C526D144A6006DEAE4 /* StringConstants.swift */; };
+		36DD65C826D18458006DEAE4 /* states.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65C726D18458006DEAE4 /* states.json */; };
+		36DD65CA26D1846E006DEAE4 /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 36DD65C926D1846E006DEAE4 /* cities.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,14 +34,14 @@
 		36DD65A726D13F6E006DEAE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36DD65A926D13F6E006DEAE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36DD65B326D13FC4006DEAE4 /* CountryPickerVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryPickerVC.swift; sourceTree = "<group>"; };
-		36DD65B526D14019006DEAE4 /* synergistic_golfcountries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = synergistic_golfcountries.json; sourceTree = "<group>"; };
-		36DD65B626D14019006DEAE4 /* synergistic_golf.states.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = synergistic_golf.states.json; sourceTree = "<group>"; };
-		36DD65B726D14019006DEAE4 /* synergistic_golfcities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = synergistic_golfcities.json; sourceTree = "<group>"; };
+		36DD65B526D14019006DEAE4 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
 		36DD65BC26D140F4006DEAE4 /* CountryPickerTVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CountryPickerTVCell.xib; sourceTree = "<group>"; };
 		36DD65BD26D140F4006DEAE4 /* CountryPickerTVCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryPickerTVCell.swift; sourceTree = "<group>"; };
 		36DD65C026D143E8006DEAE4 /* CountryModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryModel.swift; sourceTree = "<group>"; };
 		36DD65C226D14435006DEAE4 /* CountryPickerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryPickerViewModel.swift; sourceTree = "<group>"; };
 		36DD65C526D144A6006DEAE4 /* StringConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringConstants.swift; sourceTree = "<group>"; };
+		36DD65C726D18458006DEAE4 /* states.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
+		36DD65C926D1846E006DEAE4 /* cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cities.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,9 +91,9 @@
 		36DD65AF26D13F7C006DEAE4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				36DD65B626D14019006DEAE4 /* synergistic_golf.states.json */,
-				36DD65B726D14019006DEAE4 /* synergistic_golfcities.json */,
-				36DD65B526D14019006DEAE4 /* synergistic_golfcountries.json */,
+				36DD65C926D1846E006DEAE4 /* cities.json */,
+				36DD65C726D18458006DEAE4 /* states.json */,
+				36DD65B526D14019006DEAE4 /* countries.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -201,11 +201,11 @@
 			files = (
 				36DD65BE26D140F4006DEAE4 /* CountryPickerTVCell.xib in Resources */,
 				36DD65A826D13F6E006DEAE4 /* LaunchScreen.storyboard in Resources */,
-				36DD65BA26D14019006DEAE4 /* synergistic_golfcities.json in Resources */,
-				36DD65B826D14019006DEAE4 /* synergistic_golfcountries.json in Resources */,
+				36DD65B826D14019006DEAE4 /* countries.json in Resources */,
+				36DD65CA26D1846E006DEAE4 /* cities.json in Resources */,
 				36DD65A526D13F6E006DEAE4 /* Assets.xcassets in Resources */,
 				36DD65A326D13F6B006DEAE4 /* Main.storyboard in Resources */,
-				36DD65B926D14019006DEAE4 /* synergistic_golf.states.json in Resources */,
+				36DD65C826D18458006DEAE4 /* states.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

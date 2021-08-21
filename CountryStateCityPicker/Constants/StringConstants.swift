@@ -13,7 +13,7 @@ extension String {
     static let statePicker = { return "State" }()
     static let cityPicker = { return "City" }()
     static let json = { return "json" }()
-    static let countryJsonName = { return "synergistic_golfcountries" }()
-    static let stateJsonName = { return "synergistic_golf.states" }()
-    static let cityJsonName = { return "synergistic_golfcities" }()
+    static let countryJsonName = { return "countries" }()
+    static let stateJsonName = { return "states" }()
+    static let cityJsonName = { return "cities" }()
 }
